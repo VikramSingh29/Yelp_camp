@@ -21,7 +21,7 @@ MongoDB
 Clone the repository
 bash
 Copy code
-git clone https://github.com/yourusername/yelcamp.git](https://github.com/VikramSingh29/Yelp_camp.git
+git clone https://github.com/VikramSingh29/Yelp_camp.git
 cd yelcamp
 Install dependencies
 bash
